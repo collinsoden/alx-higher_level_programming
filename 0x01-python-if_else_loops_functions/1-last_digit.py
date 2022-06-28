@@ -10,4 +10,4 @@ elif last_digit == 0:
     x = "and is 0"
 elif (last_digit != 0) and (last_digit < 6):
     x = "and is less than 6 and not 0"
-        print(f"Last digit of {number} is {last_digit} {x}")
+print(f"Last digit of {number} is {last_digit} {x}")
