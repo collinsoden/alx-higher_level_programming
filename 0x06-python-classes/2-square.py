@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Define a class Square."""
 
-
 class Square:
     """creates a square or area"""
     __size = None
