@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""Creating an empty class: Sqaure() """
+# 0-square.py
+"""Defining a class Square."""
+
 
 class Square:
+    """Represent one square."""
     pass
