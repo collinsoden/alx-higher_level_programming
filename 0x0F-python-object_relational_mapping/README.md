@@ -1,3 +1,3 @@
 Python - Object-relational mapping
-Author: Collins Oden
+<br>Author: Collins Oden
 
